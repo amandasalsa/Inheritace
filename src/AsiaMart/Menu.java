@@ -20,9 +20,6 @@ public class Menu {
         System.out.println("2. Thai  Tea");
         System.out.println("3. Milk  Tea");
     }
-
-    void menu() {
-    }
     }
 
 
